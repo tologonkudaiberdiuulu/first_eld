@@ -139,14 +139,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.2.3"
-  progressive_time_picker:
-    dependency: "direct main"
-    description:
-      name: progressive_time_picker
-      sha256: "52f5fa1a4ee9fc12ddf3906a23d46728326a49c80da18d55384a63bdc2942596"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.8"
   sky_engine:
     dependency: transitive
     description: flutter

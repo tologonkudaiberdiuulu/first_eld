@@ -37,7 +37,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   percent_indicator: ^4.2.3
   floating_bottom_navigation_bar: ^1.5.2
-  progressive_time_picker: ^0.0.8
 
 dev_dependencies:
   flutter_test:
